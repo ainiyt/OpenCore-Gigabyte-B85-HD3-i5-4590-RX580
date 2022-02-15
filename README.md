@@ -20,7 +20,9 @@ USB已定制
   
 config.plist 设置。
  - Windows 相关。
+
 Kernel > Quirks > CustomSMBIOSGuid > True (默认为 False)
+
 PlatformInfo > UpdateSMBIOSMode > Custom (默认为  Create)
 
 Bios
