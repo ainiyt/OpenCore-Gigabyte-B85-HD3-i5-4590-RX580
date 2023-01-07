@@ -1,6 +1,6 @@
 # Hackintosh-Gigabyte-B85-HD3-i5-4590-RX580
 
-     OpenCore 版本为 0.7.8
+     OpenCore 版本为 0.8.8
 
 | 硬件 | 型号 |
 | ---- |-----|
@@ -8,7 +8,7 @@
 | CPU | i5-4590 |
 | 显卡 | RX580 |
 |WiFi+蓝牙| AX200|
-| SSD | Intel 545s |
+| 硬盘 | 西数SN550 |
 |内存 | 威刚DDR3 8*2 |
 
 
