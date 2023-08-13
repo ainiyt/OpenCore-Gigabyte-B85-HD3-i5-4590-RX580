@@ -1,6 +1,6 @@
 # Hackintosh-Gigabyte-B85-HD3-i5-4590-RX580
 
-     OpenCore 版本为 0.9.3
+     OpenCore 版本为 0.9.4
 
 | 硬件 | 型号 |
 | ---- |-----|
